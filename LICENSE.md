@@ -6,6 +6,8 @@
 协议全文（法律文本，具有约束力）：
 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans>
 
+本仓库根目录另存一份**未删改的英文正式文本** [`LICENSE`](LICENSE)，GitHub 的协议识别以它为准。
+
 ## 你可以
 
 - **共享** — 在任何媒介或格式下复制、发行本作品。

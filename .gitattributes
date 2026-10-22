@@ -1,0 +1,6 @@
+# 仓库内统一 LF；Markdown 保持 LF 检出，避免 Windows 上 CRLF 造成的整篇 diff
+* text=auto eol=lf
+*.md text eol=lf
+*.png binary
+*.jpg binary
+*.zip binary

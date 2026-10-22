@@ -1,0 +1,17 @@
+# Windows 资源管理器 / 系统杂物
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 编辑器与临时文件
+.obsidian/
+.vscode/
+.idea/
+*.tmp
+*.swp
+*~
+~$*
+
+# 本机专属（不进仓库）
+*.local.md
+.DS_Store
